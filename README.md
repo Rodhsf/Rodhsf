@@ -24,6 +24,7 @@ Inglês fluente (C1), com período morando em Malta.
 
 ## 📌 Projetos em destaque
 
+- 🔗 [cypress-cucumber-orangehrm](https://github.com/rodhsf/cypress-cucumber-orangehrm) — Testes automatizados com Cypress e Cucumber (BDD/Gherkin) no sistema OrangeHRM
 - 🔗 [cypress-qazando-shop](https://github.com/rodhsf/cypress-qazando-shop) — Testes automatizados com Cypress nos fluxos de login, cadastro e carrinho
 - 🔗 [manual-testing-saucedemo](https://github.com/rodhsf/manual-testing-saucedemo) — Testes manuais dos fluxos de Login, Carrinho e Checkout
 - 🔗 [api-manual-testing-serverest](https://github.com/rodhsf/api-manual-testing-serverest) — Testes manuais de API com Postman
