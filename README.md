@@ -6,7 +6,7 @@ QA Analyst focado em testes manuais e em evolução constante rumo à automaçã
 
 Atuo com testes manuais funcionais, negativos e exploratórios em ambientes web e desktop, cobrindo o ciclo completo de testes — do desenvolvimento até a entrega em produção. Já testei fluxos como login, cadastro, contas de usuário e pagamentos, além de escrever casos de teste e documentar defeitos no dia a dia.
 
-Atualmente estou aprofundando automação com Cypress e Playwright, e também uso IA como apoio no processo de QA.
+Atualmente estou aprofundando meus conhecimentos em automação de testes com Cypress, Playwright e BDD (Cucumber/Gherkin), além de usar IA como apoio no processo de QA.
 
 Inglês fluente (C1), com período morando em Malta.
 
@@ -14,7 +14,7 @@ Inglês fluente (C1), com período morando em Malta.
 
 **Testes:** Testes manuais | Testes automatizados (E2E) | Test cases | STLC | Smoke & Regression Testing | Bug Report
 
-**Automação**: Cypress | Playwright 
+**Automação**: Cypress | Playwright | Cucumber (BDD/Gherkin)
 
 **Ferramentas**: Postman | Jira | Trello | GitHub 
 
