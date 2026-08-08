@@ -12,7 +12,7 @@ Inglês fluente (C1), com período morando em Malta.
 
 ## 🛠️ Stack e ferramentas
 
-**Testes:** Testes manuais | Test cases | STLC | Smoke & Regression Testing | Bug Report
+**Testes:** Testes manuais | Testes automatizados (E2E) | Test cases | STLC | Smoke & Regression Testing | Bug Report
 
 **Automação**: Cypress | Playwright 
 
